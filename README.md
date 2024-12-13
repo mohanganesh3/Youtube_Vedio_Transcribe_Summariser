@@ -5,12 +5,15 @@ A Streamlit application that leverages AI to transcribe and summarize YouTube vi
 ## 🎥 Demo
 <img width="669" alt="Screenshot 2024-12-13 at 9 51 28 AM" src="https://github.com/user-attachments/assets/5fcefc81-b0b4-478e-acbb-ae52fbcc82cc" />
 
-•	Upload: Enter a YouTube video URL.
+•Upload: Enter a YouTube video URL.
+
+
 <img width="736" alt="Screenshot 2024-12-13 at 9 51 40 AM" src="https://github.com/user-attachments/assets/b154859e-bcaa-4ad9-b096-380dd336014a" />
 	
- •	Transcribe: The app processes the video and generates a transcript.
+•Transcribe: The app processes the video and generates a transcript.
  
-•	Summarize: Get a summarized version of the transcript in seconds.
+•Summarize: Get a summarized version of the transcript in seconds.
+
  <img width="627" alt="Screenshot 2024-12-13 at 9 52 11 AM" src="https://github.com/user-attachments/assets/c9c4d64d-306d-4482-b794-3c5f31ede87a" />
 
 
