@@ -1,0 +1,56 @@
+.env
+venv
+venv/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# API keys and environment variables
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Cache files
+*.cache
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Node modules (if Node.js is involved)
+node_modules/
+
+# Python package directories
+build/
+dist/
+*.egg-info/
+
+# Specific to your project
+transcripts/  # Folder to store transcribed files (if dynamically generated)
+summaries/    # Folder to store summarized text (if dynamically generated)
+uploads/      # Temporary upload folder (if used in the project)
